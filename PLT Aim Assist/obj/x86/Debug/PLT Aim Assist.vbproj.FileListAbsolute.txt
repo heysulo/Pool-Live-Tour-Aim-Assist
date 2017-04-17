@@ -1,0 +1,43 @@
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\bin\Debug\PLT Aim Assist.exe
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\bin\Debug\PLT Aim Assist.pdb
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\bin\Debug\PLT Aim Assist.xml
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.Form1.resources
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.Resources.resources
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\obj\x86\Debug\PLT Aim Assist.exe
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\obj\x86\Debug\PLT Aim Assist.xml
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\obj\x86\Debug\PLT Aim Assist.pdb
+C:\Users\Sulochana\AppData\Local\Temporary Projects\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmSplash.resources
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT Aim Assist.exe
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT Aim Assist.xml
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT Aim Assist.pdb
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\PLT Aim Assist.exe
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\PLT Aim Assist.pdb
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\PLT Aim Assist.xml
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.Form1.resources
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmSplash.resources
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.Resources.resources
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmAssister.resources
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmToolPad.resources
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmSettings.resources
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmLoadValues.resources
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmInfinity.resources
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmNewValue.resources
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\PLT Aim Assist.exe.manifest
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\PLT Aim Assist.application
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\System.dll
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\System.Drawing.dll
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\System.Windows.Forms.dll
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\System.Xml.dll
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\System.Xml.Linq.dll
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT Aim Assist.TrustInfo.xml
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT Aim Assist.exe.manifest
+d:\sulochana\documents\visual studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT Aim Assist.application
+D:\Sulochana\Documents\Visual Studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmEULA.resources
+D:\Sulochana\Documents\Visual Studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmCard.resources
+D:\Sulochana\Documents\Visual Studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT_Aim_Assist.frmDimmer.resources
+D:\Sulochana\Documents\Visual Studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\obj\x86\Debug\PLT Aim Assist.vbproj.GenerateResource.Cache
+D:\Sulochana\Documents\Visual Studio 2010\Projects\PLT Aim Assist\PLT Aim Assist\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
